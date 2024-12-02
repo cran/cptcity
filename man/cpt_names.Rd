@@ -8,14 +8,14 @@
 A vector with the 7140 names of the color gradients
 }
 \source{
-\url{http://soliton.vm.bytemark.co.uk/pub/cpt-city/}
+\url{http://seaviewsensing.com/pub/cpt-city/}
 }
 \usage{
 data(cpt_names)
 }
 \description{
 This dataset os a vector with al the names of the gradients of the archive
-cptcity (http://soliton.vm.bytemark.co.uk/pub/cpt-city/) availale in this
+cptcity (http://seaviewsensing.com/pub/cpt-city/) availale in this
 package. Please, read the documentation of each color gradient in the
 web page shown above.
 }

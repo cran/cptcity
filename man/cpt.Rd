@@ -33,7 +33,7 @@ palette.
 }
 \details{
 The cpt-city web archive comes from:
-http://soliton.vm.bytemark.co.uk/pub/cpt-city/index.html
+http://seaviewsensing.com/pub/cpt-city/
 }
 \examples{
 {
@@ -42,11 +42,6 @@ image(matrix(1:100), col = cpt(pal = "mpl_inferno"))
 find_cpt("temperature")
 image(matrix(1:100), col = cpt("idv_temperature"))
 image(matrix(1:100), col = cpt("idv_temperature", rev = TRUE))
-# now you can select more than one palette!!!
-image(matrix(1:100),
-     col = cpt(pal = c("idv_temperature",
-                       "arendal_temperature"),
-               rev = TRUE))
 \dontrun{
 # Do not run
 library(ggplot2)

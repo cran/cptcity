@@ -1,9 +1,12 @@
 NEWS
 ===========
+### cptcity v1.1.1 (Release date: 2024-11-30)
 
-### cptcity v1.0.6 (Release date:  2020-10-02()
+- CRAN release
 
-- Add argument frgb to change internal rgb composition
+### cptcity v1.1.0 (Release date: 2023-08-13)
+
+- Planned release
 
 ### cptcity v1.0.5 (Release date: 2019-11-07)
 

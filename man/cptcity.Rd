@@ -2,6 +2,7 @@
 % Please edit documentation in R/cptcity.R
 \docType{package}
 \name{cptcity}
+\alias{cptcity-package}
 \alias{cptcity}
 \title{A package to return colour gradients from CPTCITY}
 \description{
@@ -12,4 +13,16 @@ and \strong{pal} for the name or number of the palette:
 \details{
 The palettes are available here:
 http://soliton.vm.bytemark.co.uk/pub/cpt-city/index.html
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/ibarraespinosa/cptcity}
+  \item Report bugs at \url{https://github.com/ibarraespinosa/cptcity/issues/}
+}
+
+}
+\author{
+\strong{Maintainer}: Sergio Ibarra-Espinosa \email{zergioibarra@gmail.com} (\href{https://orcid.org/0000-0002-3162-1905}{ORCID})
+
 }
